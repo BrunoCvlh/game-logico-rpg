@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/LogicaComJogo.iml" filepath="$PROJECT_DIR$/.idea/LogicaComJogo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.rpgGame/com.rpgGame.iml" filepath="$PROJECT_DIR$/com.rpgGame/com.rpgGame.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.rpgGame/mainHistory/mainHistory.iml" filepath="$PROJECT_DIR$/com.rpgGame/mainHistory/mainHistory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.rpgGame/monsterClass/monsterClass.iml" filepath="$PROJECT_DIR$/com.rpgGame/monsterClass/monsterClass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.rpgGame/playerClass/playerClass.iml" filepath="$PROJECT_DIR$/com.rpgGame/playerClass/playerClass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.rpg.mainHistory/playerClasses/playerClasses.iml" filepath="$PROJECT_DIR$/com.rpg.mainHistory/playerClasses/playerClasses.iml" />
+    </modules>
+  </component>
+</project>
