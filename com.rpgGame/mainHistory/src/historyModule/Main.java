@@ -1,3 +1,7 @@
+package historyModule;
+
+import playerModule.playerClass;
+
 import java.util.Scanner;
 
 public class Main {
@@ -14,14 +18,15 @@ public class Main {
 
         player.ClassAtributes(player.classe);
 
-        int ataque = player.ataque;
-        int vida = player.vida;
-        int mana = player.mana;
+
+        int ataquePlayer = player.ataque;
+        int vidaPlayer = player.vida;
+        int manaPlayer = player.mana;
         String nameOfClass = player.nameClass;
 
 
-        System.out.println("Olá " + player.name + "!\nSeus atributos atuais são:");
-        System.out.println("Vida :" + player.vida + "\nAtaque :" + player.ataque + "\nMana :" + player.mana);
+        System.out.println("Olá " + player.name + "!\nSeus atributos atuais como "+nameOfClass+"são:");
+        System.out.println("Vida :" + vidaPlayer + "\nAtaque :" + ataquePlayer + "\nMana :" + manaPlayer);
 
 
     }

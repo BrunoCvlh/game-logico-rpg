@@ -1,11 +1,13 @@
+package playerModule;
+
 public class playerClass {
 
-    static String name;
-    static String nameClass;
-    static int classe;
-    static int ataque;
-    static int vida;
-    static int mana;
+    public static String name;
+    public static String nameClass;
+    public static int classe;
+    public static int ataque;
+    public static int vida;
+    public static int mana;
 
 
     public void ClassAtributes(int classeEscolhida) {
