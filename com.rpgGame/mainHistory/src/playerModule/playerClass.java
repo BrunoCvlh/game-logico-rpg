@@ -28,7 +28,7 @@ public class playerClass {
                 playerClass.vida = 30;
                 playerClass.mana = 10;
             default:
-                System.out.println("Escolha uma classe");
+                System.out.println("Monstro não atribuído");
         }
     }
 }
